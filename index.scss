@@ -1,0 +1,65 @@
+// Consolidated project styles (SCSS)
+$ss-gap: 16px;
+$ss-padding: 24px;
+$ss-border: #ccc;
+$row-bg-odd: #fbfbfb;
+$row-bg-even: #f5f7ff;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: #fff;
+  color: #111;
+}
+
+.ss-root {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  padding: $ss-padding;
+}
+
+.ss-grid-3cols {
+  display: grid;
+  gap: $ss-gap;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: stretch;
+}
+
+.ss-panel {
+  border: 1px solid $ss-border;
+  border-radius: 8px;
+  padding: 16px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+
+  h3 {
+    margin: 0 0 8px 0;
+    font-size: 1rem;
+  }
+}
+
+// Apply alternating backgrounds in 9-item groups (1-9, 10-18, ...)
+.ss-even-odd-grid {
+  @for $i from 1 through 9 {
+    >.ss-panel:nth-child(18n + #{$i}) {
+      background: $row-bg-odd;
+    }
+  }
+
+  @for $i from 10 through 18 {
+    >.ss-panel:nth-child(18n + #{$i}) {
+      background: $row-bg-even;
+    }
+  }
+}

@@ -22,7 +22,7 @@ export default function App() {
   return (
     <div className="ss-root">
       <FocusProvider>
-        <div className="ss-grid-3cols">
+        <div className="ss-grid-3cols ss-even-odd-grid">
           {fetchedData.map((item) => (
             <Panel key={item.item} data={item}/>
           ))}
