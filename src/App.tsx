@@ -23,7 +23,7 @@ export default function App() {
       const url = 'https://raw.githubusercontent.com/HRAshton/supermarket-simulator-erp/refs/heads/save1/Supermarket%20Simulator/slot_1.es3';
       const response = await fetch(url);
       const saveDataJson = await response.text();
-      const fixedJson = saveDataJson.replaceAll(/\b\d+\s*:/g, '"$1":');
+      const fixedJson = saveDataJson.replaceAll(/\b(\d+)\s*:/g, '"$1":');
       const saveData = JSON.parse(fixedJson);
       setSaveData(saveData);
     })();
