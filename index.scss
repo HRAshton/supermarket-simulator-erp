@@ -51,6 +51,10 @@ body {
   >:nth-child(2) {
     margin-top: auto;
   }
+
+  &.ss-panel--filled:not(:focus-within) {
+    opacity: 0.5;
+  }
 }
 
 // Apply alternating backgrounds in 9-item groups (1-9, 10-18, ...)

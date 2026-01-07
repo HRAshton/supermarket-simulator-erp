@@ -16,7 +16,7 @@ export const Panel = (props: Props) => {
   const boxesToBuy = data['max total, boxes'] - Math.ceil(count / data['ro, items/box']);
 
   return (
-    <div className="ss-panel">
+    <div className={`ss-panel ${boxesToBuy <= 0 ? 'ss-panel--filled' : ''}`}>
       <h3>{data['item']}</h3>
       <input className="ss-input" type="number" value={count} tabIndex={1}
              onChange={(e) => setCount(Number(e.target.value))}
