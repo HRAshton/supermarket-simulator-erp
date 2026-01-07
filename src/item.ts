@@ -1,4 +1,5 @@
 ﻿export type Item = {
+  'id': number;
   'item': string;
   'curr, items': number;
   'to buy, boxes': number;

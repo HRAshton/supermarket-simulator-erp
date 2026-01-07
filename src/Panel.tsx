@@ -4,12 +4,13 @@ import { useEnterToNext } from './hooks/useEnterToNext';
 
 type Props = {
   data: Item;
+  initialCount?: number;
 };
 
 export const Panel = (props: Props) => {
   const { data } = props;
 
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(props.initialCount || 0);
   const focus = useEnterToNext<HTMLInputElement>();
 
   const boxesToBuy = data['max total, boxes'] - Math.ceil(count / data['ro, items/box']);
