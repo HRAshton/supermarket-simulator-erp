@@ -43,7 +43,7 @@
 				"Taken" : false
 			}
 		],
-		"Money" : 4921.53369,
+		"Money" : 4152.924,
 		"CartData" : {
 			"ProductInCarts" : [
 				
@@ -59,26 +59,7 @@
 			]
 		},
 		"BoxDatas" : [
-			{
-				"m_UID" : 140,
-				"Size" : 7,
-				"Transform" : {
-					"Position" : {
-						"x" : -5.873552,
-						"y" : 1.106838,
-						"z" : 1.54736483
-					},
-					"Rotation" : {
-						"x" : 0.04802612,
-						"y" : -0.9939399,
-						"z" : 0.0287520066,
-						"w" : -0.0946085453
-					}
-				},
-				"IsOpen" : true,
-				"ProductID" : 175,
-				"ProductCount" : 3
-			}
+			
 		],
 		"VehicleDatas" : [
 			{
@@ -107,15 +88,15 @@
 				"Level" : 1,
 				"TransformData" : {
 					"Position" : {
-						"x" : 30.27098,
-						"y" : -0.01292713,
-						"z" : 29.0184822
+						"x" : 30.270998,
+						"y" : -0.0129271969,
+						"z" : 29.0184689
 					},
 					"Rotation" : {
-						"x" : -0.00028904996,
-						"y" : 0.9326372,
-						"z" : -0.00126995135,
-						"w" : -0.3608132
+						"x" : -0.000327769842,
+						"y" : 0.932637155,
+						"z" : -0.00125496835,
+						"w" : -0.360813439
 					}
 				},
 				"Boxes" : [
@@ -4482,6 +4463,25 @@
 								"IsOpen" : false,
 								"ProductID" : 175,
 								"ProductCount" : 77
+							},{
+								"m_UID" : 140,
+								"Size" : 7,
+								"Transform" : {
+									"Position" : {
+										"x" : -0.826127648,
+										"y" : 0.638999939,
+										"z" : 12.57608
+									},
+									"Rotation" : {
+										"x" : 0,
+										"y" : -0.7071069,
+										"z" : 0,
+										"w" : -0.707106769
+									}
+								},
+								"IsOpen" : false,
+								"ProductID" : 175,
+								"ProductCount" : 3
 							}
 						],
 						"ProductID" : 175,
@@ -8960,18 +8960,18 @@
 			
 		],
 		"DailyStatisticsData" : {
-			"SatisfiedCustomerCount" : 56,
+			"SatisfiedCustomerCount" : 0,
 			"CouldntFindProduct" : 0,
 			"ExpensiveProducts" : 0,
 			"ShortChangeAmount" : 0,
 			"HarmedCustomerCount" : 0,
-			"TotalCustomerCount" : 56,
-			"StorePoint" : 450,
-			"CheckoutIncome" : 4354.42,
-			"SupplyCosts" : -3209.539,
+			"TotalCustomerCount" : 0,
+			"StorePoint" : 0,
+			"CheckoutIncome" : 0,
+			"SupplyCosts" : 0,
 			"UpgradeCosts" : 0,
 			"CustomizationCosts" : 0,
-			"BillCosts" : -168.32,
+			"BillCosts" : -168.61,
 			"RentCosts" : -80,
 			"LoanIncome" : 0,
 			"LoanPayment" : 0,
@@ -9296,8 +9296,8 @@
 				}
 			}
 		],
-		"CurrentTime" : 46802.5547,
-		"CurrentDay" : 75,
+		"CurrentTime" : 0,
+		"CurrentDay" : 76,
 		"LastDayPricesChanged" : 1,
 		"LastWholesaleOfferShown" : {
 			"x" : 75,
@@ -9312,7 +9312,7 @@
 		"CurrentStorePoint" : 89,
 		"CurrentStoreLevel" : 39,
 		"StoreUpgradeLevel" : 4,
-		"IsStoreOpen" : true,
+		"IsStoreOpen" : false,
 		"PaintedWallCount" : 12,
 		"PaintedFloorCount" : 0,
 		"IsTabletBought" : true,
@@ -9657,7 +9657,7 @@
 				"DiscountRate" : 0
 			},{
 				"ProductID" : 88,
-				"Price" : 1.29,
+				"Price" : 1.032,
 				"LastChangeDate" : -1,
 				"DiscountRate" : 0
 			},{
@@ -10440,7 +10440,7 @@
 				"DiscountRate" : 0
 			},{
 				"ProductID" : 46,
-				"Price" : 5.25,
+				"Price" : 5.48,
 				"LastChangeDate" : 75,
 				"DiscountRate" : 0
 			},{
@@ -10475,7 +10475,7 @@
 				"DiscountRate" : 0
 			},{
 				"ProductID" : 75,
-				"Price" : 16.65,
+				"Price" : 16.91,
 				"LastChangeDate" : 75,
 				"DiscountRate" : 0
 			},{
@@ -10600,8 +10600,8 @@
 				"DiscountRate" : 0
 			},{
 				"ProductID" : 88,
-				"Price" : 3.7,
-				"LastChangeDate" : 69,
+				"Price" : 2.94,
+				"LastChangeDate" : 76,
 				"DiscountRate" : 0
 			},{
 				"ProductID" : 120,
@@ -11005,13 +11005,8 @@
 		],
 		"DailyPriceChanges" : [
 			{
-				"ProductID" : 46,
-				"Price" : 2.49,
-				"LastChangeDate" : -1,
-				"DiscountRate" : 0
-			},{
-				"ProductID" : 75,
-				"Price" : 11.27,
+				"ProductID" : 88,
+				"Price" : 1.032,
 				"LastChangeDate" : -1,
 				"DiscountRate" : 0
 			}
@@ -11234,7 +11229,7 @@
 				"DiscountRate" : 0
 			},{
 				"ProductID" : 88,
-				"Price" : 1.188,
+				"Price" : 1.29,
 				"LastChangeDate" : -1,
 				"DiscountRate" : 0
 			},{
@@ -11567,8 +11562,8 @@
 				"DiscountRate" : 0
 			},{
 				"ProductID" : 88,
-				"Price" : 1.29,
-				"LastChangeDate" : 69,
+				"Price" : 1.032,
+				"LastChangeDate" : 76,
 				"DiscountRate" : 0
 			},{
 				"ProductID" : 96,
@@ -12212,7 +12207,7 @@
 	"Expenses" : {
 		"__type" : "SaveManager+ExpensesData,Assembly-CSharp",
 		"value" : {
-		"CurrentDayBillAmount" : 168.605423,
+		"CurrentDayBillAmount" : 0,
 		"Bills" : [
 			
 		],
@@ -16574,7 +16569,7 @@
 			
 		],
 		"OrdersPlannedForToday" : [
-			
+			29021.0332,37274.9375
 		],
 		"PaperbagProducts" : [
 			
