@@ -43,7 +43,7 @@
 				"Taken" : false
 			}
 		],
-		"Money" : 3639.22363,
+		"Money" : 4092.84351,
 		"CartData" : {
 			"ProductInCarts" : [
 				
@@ -64,77 +64,153 @@
 				"Size" : 2,
 				"Transform" : {
 					"Position" : {
-						"x" : -3.72092557,
-						"y" : -0.6000878,
-						"z" : 9.704597
+						"x" : -5.36149168,
+						"y" : 0.07516718,
+						"z" : 11.0589285
 					},
 					"Rotation" : {
-						"x" : 0.3152031,
-						"y" : 0.11271508,
-						"z" : -0.8897536,
-						"w" : -0.310291827
+						"x" : -0.0095754955,
+						"y" : -0.994712234,
+						"z" : 0.0230550673,
+						"w" : -0.09962532
+					}
+				},
+				"IsOpen" : true,
+				"ProductID" : 34,
+				"ProductCount" : 2
+			},{
+				"m_UID" : 336,
+				"Size" : 1,
+				"Transform" : {
+					"Position" : {
+						"x" : 5.077592,
+						"y" : -0.0115384683,
+						"z" : 1.556178
+					},
+					"Rotation" : {
+						"x" : -0.00221103686,
+						"y" : 0.609082,
+						"z" : 0.0009908201,
+						"w" : 0.793103635
 					}
 				},
 				"IsOpen" : false,
-				"ProductID" : 34,
-				"ProductCount" : 12
+				"ProductID" : 157,
+				"ProductCount" : 32
 			},{
-				"m_UID" : 46,
+				"m_UID" : 337,
 				"Size" : 1,
 				"Transform" : {
 					"Position" : {
-						"x" : -2.05806541,
-						"y" : 0.0166310072,
-						"z" : 12.8912315
+						"x" : 5.259441,
+						"y" : 0.1537184,
+						"z" : 2.14499
 					},
 					"Rotation" : {
-						"x" : 0.0275779516,
-						"y" : 0.9898549,
-						"z" : -0.0118090566,
-						"w" : -0.138880223
+						"x" : -0.261936367,
+						"y" : 0.443682134,
+						"z" : 0.275236219,
+						"w" : 0.811652958
 					}
 				},
-				"IsOpen" : true,
-				"ProductID" : 39,
-				"ProductCount" : 2
+				"IsOpen" : false,
+				"ProductID" : 157,
+				"ProductCount" : 32
 			},{
-				"m_UID" : 103,
+				"m_UID" : 338,
 				"Size" : 1,
 				"Transform" : {
 					"Position" : {
-						"x" : -5.395944,
-						"y" : 1.14189148,
-						"z" : 7.6205554
+						"x" : 5.62366152,
+						"y" : -0.0116144195,
+						"z" : 2.27499175
 					},
 					"Rotation" : {
-						"x" : 0.027603019,
-						"y" : -0.9172228,
-						"z" : 0.0405278057,
-						"w" : -0.395346165
+						"x" : 0.002015004,
+						"y" : -0.000358217367,
+						"z" : -0.000813609746,
+						"w" : 0.999997556
 					}
 				},
-				"IsOpen" : true,
-				"ProductID" : 56,
+				"IsOpen" : false,
+				"ProductID" : 157,
+				"ProductCount" : 32
+			},{
+				"m_UID" : 339,
+				"Size" : 1,
+				"Transform" : {
+					"Position" : {
+						"x" : 5.845058,
+						"y" : -0.0115353242,
+						"z" : 1.41259682
+					},
+					"Rotation" : {
+						"x" : 7.11299748E-08,
+						"y" : 0.6087617,
+						"z" : -1.18294608E-07,
+						"w" : 0.79335314
+					}
+				},
+				"IsOpen" : false,
+				"ProductID" : 157,
+				"ProductCount" : 32
+			},{
+				"m_UID" : 214,
+				"Size" : 2,
+				"Transform" : {
+					"Position" : {
+						"x" : -6.119344,
+						"y" : 1.103229,
+						"z" : 1.03120959
+					},
+					"Rotation" : {
+						"x" : 0.0285044964,
+						"y" : -0.032531172,
+						"z" : 0.0209965818,
+						"w" : 0.9988438
+					}
+				},
+				"IsOpen" : false,
+				"ProductID" : 66,
 				"ProductCount" : 4
 			},{
-				"m_UID" : 141,
+				"m_UID" : 140,
 				"Size" : 5,
 				"Transform" : {
 					"Position" : {
-						"x" : -6.723375,
-						"y" : 1.12628078,
-						"z" : -2.257194
+						"x" : -5.99729443,
+						"y" : 1.13065886,
+						"z" : 3.24460554
 					},
 					"Rotation" : {
-						"x" : -0.0003711495,
-						"y" : -0.6062631,
-						"z" : 0.00538598932,
-						"w" : -0.7952462
+						"x" : 0.03501678,
+						"y" : -0.08492341,
+						"z" : 0.00622148858,
+						"w" : 0.995753
 					}
 				},
-				"IsOpen" : true,
+				"IsOpen" : false,
 				"ProductID" : 76,
-				"ProductCount" : 1
+				"ProductCount" : 16
+			},{
+				"m_UID" : 97,
+				"Size" : 1,
+				"Transform" : {
+					"Position" : {
+						"x" : -5.357069,
+						"y" : 0.237395108,
+						"z" : 9.472807
+					},
+					"Rotation" : {
+						"x" : 0.07097447,
+						"y" : 0.209673882,
+						"z" : 0.004491712,
+						"w" : 0.9751818
+					}
+				},
+				"IsOpen" : false,
+				"ProductID" : 32,
+				"ProductCount" : 12
 			}
 		],
 		"VehicleDatas" : [
@@ -164,15 +240,15 @@
 				"Level" : 1,
 				"TransformData" : {
 					"Position" : {
-						"x" : 30.2711868,
+						"x" : 30.2711887,
 						"y" : -0.0129271038,
-						"z" : 29.0183029
+						"z" : 29.0183
 					},
 					"Rotation" : {
-						"x" : -0.000563807844,
-						"y" : 0.9326295,
-						"z" : -0.00116364087,
-						"w" : -0.3608332
+						"x" : -0.0005704036,
+						"y" : 0.932629466,
+						"z" : -0.001161089,
+						"w" : -0.360833257
 					}
 				},
 				"Boxes" : [
@@ -427,14 +503,14 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {146:7
+						"Products" : {146:12
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {146:6
+						"Products" : {146:12
 						},
 						"ProductPrice" : {
 						},
@@ -462,7 +538,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {64:6
+						"Products" : {64:5
 						},
 						"ProductPrice" : {
 						},
@@ -494,35 +570,35 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {35:11
+						"Products" : {35:10
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {34:7
+						"Products" : {34:12
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {34:9
+						"Products" : {34:12
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {147:0
+						"Products" : {147:12
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {147:10
+						"Products" : {147:12
 						},
 						"ProductPrice" : {
 						},
@@ -575,7 +651,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {32:5
+						"Products" : {32:4
 						},
 						"ProductPrice" : {
 						},
@@ -596,21 +672,21 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {26:15
+						"Products" : {26:14
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {46:5
+						"Products" : {46:10
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {46:8
+						"Products" : {46:6
 						},
 						"ProductPrice" : {
 						},
@@ -642,7 +718,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {55:5
+						"Products" : {55:8
 						},
 						"ProductPrice" : {
 						},
@@ -744,14 +820,14 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {119:7
+						"Products" : {119:6
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {85:5
+						"Products" : {85:7
 						},
 						"ProductPrice" : {
 						},
@@ -899,14 +975,14 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {99:7
+						"Products" : {99:8
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {99:6
+						"Products" : {99:8
 						},
 						"ProductPrice" : {
 						},
@@ -966,14 +1042,14 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {75:1
+						"Products" : {75:2
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {75:0
+						"Products" : {75:2
 						},
 						"ProductPrice" : {
 						},
@@ -1005,14 +1081,14 @@
 				},
 				"DisplaySlots" : [
 					{
-						"Products" : {101:7
+						"Products" : {101:12
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {101:8
+						"Products" : {101:12
 						},
 						"ProductPrice" : {
 						},
@@ -1136,21 +1212,21 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {115:3
+						"Products" : {115:6
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {115:5
+						"Products" : {115:6
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {115:4
+						"Products" : {115:6
 						},
 						"ProductPrice" : {
 						},
@@ -1182,7 +1258,7 @@
 				},
 				"DisplaySlots" : [
 					{
-						"Products" : {63:12
+						"Products" : {63:9
 						},
 						"ProductPrice" : {
 						},
@@ -1196,7 +1272,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {63:11
+						"Products" : {63:8
 						},
 						"ProductPrice" : {
 						},
@@ -1298,14 +1374,14 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {10:7
+						"Products" : {10:8
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {10:6
+						"Products" : {10:8
 						},
 						"ProductPrice" : {
 						},
@@ -1330,14 +1406,14 @@
 				},
 				"DisplaySlots" : [
 					{
-						"Products" : {150:6
+						"Products" : {150:8
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {150:6
+						"Products" : {150:8
 						},
 						"ProductPrice" : {
 						},
@@ -1432,14 +1508,14 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {141:4
+						"Products" : {141:6
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {141:9
+						"Products" : {141:12
 						},
 						"ProductPrice" : {
 						},
@@ -1478,7 +1554,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {86:5
+						"Products" : {86:8
 						},
 						"ProductPrice" : {
 						},
@@ -1594,7 +1670,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {39:9
+						"Products" : {39:6
 						},
 						"ProductPrice" : {
 						},
@@ -1608,14 +1684,14 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {37:6
+						"Products" : {37:9
 						},
 						"ProductPrice" : {
 						},
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {37:7
+						"Products" : {37:9
 						},
 						"ProductPrice" : {
 						},
@@ -1682,7 +1758,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {24:7
+						"Products" : {24:6
 						},
 						"ProductPrice" : {
 						},
@@ -1784,7 +1860,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {187:19
+						"Products" : {187:10
 						},
 						"ProductPrice" : {
 						},
@@ -1844,7 +1920,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {165:42
+						"Products" : {165:32
 						},
 						"ProductPrice" : {
 						},
@@ -1918,7 +1994,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {76:5
+						"Products" : {76:6
 						},
 						"ProductPrice" : {
 						},
@@ -1985,7 +2061,7 @@
 						"ItemProcessData" : {
 						}
 					},{
-						"Products" : {161:18
+						"Products" : {161:16
 						},
 						"ProductPrice" : {
 						},
@@ -2849,7 +2925,7 @@
 								},
 								"IsOpen" : false,
 								"ProductID" : 55,
-								"ProductCount" : 6
+								"ProductCount" : 3
 							}
 						],
 						"ProductID" : 55,
@@ -3052,6 +3128,25 @@
 								"IsOpen" : false,
 								"ProductID" : 39,
 								"ProductCount" : 9
+							},{
+								"m_UID" : 46,
+								"Size" : 1,
+								"Transform" : {
+									"Position" : {
+										"x" : -0.5238033,
+										"y" : 1.87900007,
+										"z" : 14.9128847
+									},
+									"Rotation" : {
+										"x" : 0,
+										"y" : 0.7071069,
+										"z" : 0,
+										"w" : 0.707106769
+									}
+								},
+								"IsOpen" : false,
+								"ProductID" : 39,
+								"ProductCount" : 2
 							}
 						],
 						"ProductID" : 39,
@@ -3197,30 +3292,11 @@
 					{
 						"RackedBoxDatas" : [
 							{
-								"m_UID" : 56,
-								"Size" : 1,
-								"Transform" : {
-									"Position" : {
-										"x" : -0.8311658,
-										"y" : -0.918000042,
-										"z" : 14.0997286
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : 0.7071069,
-										"z" : 0,
-										"w" : 0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 146,
-								"ProductCount" : 12
-							},{
 								"m_UID" : 57,
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.5211658,
+										"x" : -0.8311658,
 										"y" : -0.918000042,
 										"z" : 14.0997286
 									},
@@ -3239,7 +3315,7 @@
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.211165756,
+										"x" : -0.5211658,
 										"y" : -0.918000042,
 										"z" : 14.0997286
 									},
@@ -3258,8 +3334,8 @@
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.8311658,
-										"y" : -0.6980001,
+										"x" : -0.211165756,
+										"y" : -0.918000042,
 										"z" : 14.0997286
 									},
 									"Rotation" : {
@@ -3277,8 +3353,8 @@
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.5211658,
-										"y" : -0.698,
+										"x" : -0.8311658,
+										"y" : -0.6980001,
 										"z" : 14.0997286
 									},
 									"Rotation" : {
@@ -3296,8 +3372,8 @@
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.211165756,
-										"y" : -0.698,
+										"x" : -0.5211658,
+										"y" : -0.6980001,
 										"z" : 14.0997286
 									},
 									"Rotation" : {
@@ -3380,30 +3456,11 @@
 					},{
 						"RackedBoxDatas" : [
 							{
-								"m_UID" : 62,
-								"Size" : 1,
-								"Transform" : {
-									"Position" : {
-										"x" : -0.8311659,
-										"y" : -0.268,
-										"z" : 14.0947285
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : 0.7071069,
-										"z" : 0,
-										"w" : 0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 37,
-								"ProductCount" : 9
-							},{
 								"m_UID" : 63,
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.521165848,
+										"x" : -0.8311659,
 										"y" : -0.268,
 										"z" : 14.0947285
 									},
@@ -3422,7 +3479,7 @@
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.211165845,
+										"x" : -0.521165848,
 										"y" : -0.268,
 										"z" : 14.0947285
 									},
@@ -3436,6 +3493,25 @@
 								"IsOpen" : false,
 								"ProductID" : 37,
 								"ProductCount" : 9
+							},{
+								"m_UID" : 62,
+								"Size" : 1,
+								"Transform" : {
+									"Position" : {
+										"x" : -0.211165816,
+										"y" : -0.268,
+										"z" : 14.0947285
+									},
+									"Rotation" : {
+										"x" : 0,
+										"y" : 0.7071069,
+										"z" : 0,
+										"w" : 0.707106769
+									}
+								},
+								"IsOpen" : false,
+								"ProductID" : 37,
+								"ProductCount" : 4
 							}
 						],
 						"ProductID" : 37,
@@ -4043,30 +4119,11 @@
 								"ProductID" : 46,
 								"ProductCount" : 12
 							},{
-								"m_UID" : 96,
-								"Size" : 1,
-								"Transform" : {
-									"Position" : {
-										"x" : -0.5211658,
-										"y" : 1.87900007,
-										"z" : 13.4369287
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.7071069,
-										"z" : 0,
-										"w" : -0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 46,
-								"ProductCount" : 5
-							},{
 								"m_UID" : 303,
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.211165786,
+										"x" : -0.5211658,
 										"y" : 1.87900007,
 										"z" : 13.4369287
 									},
@@ -4087,30 +4144,11 @@
 					},{
 						"RackedBoxDatas" : [
 							{
-								"m_UID" : 97,
-								"Size" : 1,
-								"Transform" : {
-									"Position" : {
-										"x" : -0.831165433,
-										"y" : 1.659,
-										"z" : 14.0967283
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.7071069,
-										"z" : 0,
-										"w" : -0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 32,
-								"ProductCount" : 12
-							},{
 								"m_UID" : 98,
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.521165431,
+										"x" : -0.831165433,
 										"y" : 1.659,
 										"z" : 14.0967283
 									},
@@ -4129,7 +4167,7 @@
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.211165369,
+										"x" : -0.521165431,
 										"y" : 1.659,
 										"z" : 14.0967283
 									},
@@ -4148,8 +4186,8 @@
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.831165433,
-										"y" : 1.87900007,
+										"x" : -0.211165369,
+										"y" : 1.659,
 										"z" : 14.0967283
 									},
 									"Rotation" : {
@@ -4167,7 +4205,7 @@
 								"Size" : 1,
 								"Transform" : {
 									"Position" : {
-										"x" : -0.521165431,
+										"x" : -0.831165433,
 										"y" : 1.87900007,
 										"z" : 14.0967283
 									},
@@ -4262,6 +4300,25 @@
 								"IsOpen" : false,
 								"ProductID" : 56,
 								"ProductCount" : 8
+							},{
+								"m_UID" : 103,
+								"Size" : 1,
+								"Transform" : {
+									"Position" : {
+										"x" : -0.8661275,
+										"y" : -0.6980001,
+										"z" : 12.58008
+									},
+									"Rotation" : {
+										"x" : 0,
+										"y" : -0.7071069,
+										"z" : 0,
+										"w" : -0.707106769
+									}
+								},
+								"IsOpen" : false,
+								"ProductID" : 56,
+								"ProductCount" : 4
 							}
 						],
 						"ProductID" : 56,
@@ -5140,29 +5197,10 @@
 				"RackSlots" : [
 					{
 						"RackedBoxDatas" : [
-							{
-								"m_UID" : 140,
-								"Size" : 5,
-								"Transform" : {
-									"Position" : {
-										"x" : -7.041777,
-										"y" : -0.918000042,
-										"z" : 13.4712982
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.707106769,
-										"z" : 0,
-										"w" : 0.7071069
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 76,
-								"ProductCount" : 16
-							}
+							
 						],
 						"ProductID" : 76,
-						"BoxID" : 2
+						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
 							{
@@ -5227,7 +5265,7 @@
 								},
 								"IsOpen" : false,
 								"ProductID" : 99,
-								"ProductCount" : 8
+								"ProductCount" : 5
 							}
 						],
 						"ProductID" : 99,
@@ -5278,29 +5316,10 @@
 						"BoxID" : 2
 					},{
 						"RackedBoxDatas" : [
-							{
-								"m_UID" : 147,
-								"Size" : 5,
-								"Transform" : {
-									"Position" : {
-										"x" : -7.041777,
-										"y" : 0.366999984,
-										"z" : 14.1340981
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.707106769,
-										"z" : 0,
-										"w" : 0.7071069
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 85,
-								"ProductCount" : 2
-							}
+							
 						],
 						"ProductID" : 85,
-						"BoxID" : 2
+						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
 							{
@@ -6552,25 +6571,6 @@
 								"IsOpen" : false,
 								"ProductID" : 61,
 								"ProductCount" : 12
-							},{
-								"m_UID" : 198,
-								"Size" : 2,
-								"Transform" : {
-									"Position" : {
-										"x" : -4.269504,
-										"y" : 0.0419999361,
-										"z" : 12.6629353
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.7071069,
-										"z" : 0,
-										"w" : -0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 61,
-								"ProductCount" : 2
 							}
 						],
 						"ProductID" : 61,
@@ -6934,29 +6934,10 @@
 						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
-							{
-								"m_UID" : 214,
-								"Size" : 2,
-								"Transform" : {
-									"Position" : {
-										"x" : -4.272681,
-										"y" : -0.268,
-										"z" : 14.124258
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : 0.7071069,
-										"z" : 0,
-										"w" : 0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 66,
-								"ProductCount" : 4
-							}
+							
 						],
 						"ProductID" : 66,
-						"BoxID" : 4
+						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
 							{
@@ -7091,48 +7072,10 @@
 						"BoxID" : 4
 					},{
 						"RackedBoxDatas" : [
-							{
-								"m_UID" : 222,
-								"Size" : 2,
-								"Transform" : {
-									"Position" : {
-										"x" : -4.272681,
-										"y" : 1.012,
-										"z" : 14.1232586
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.7071069,
-										"z" : 0,
-										"w" : -0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 147,
-								"ProductCount" : 12
-							},{
-								"m_UID" : 223,
-								"Size" : 2,
-								"Transform" : {
-									"Position" : {
-										"x" : -4.272681,
-										"y" : 1.32199991,
-										"z" : 14.1232586
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : 0.7071069,
-										"z" : 0,
-										"w" : 0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 147,
-								"ProductCount" : 2
-							}
+							
 						],
 						"ProductID" : 147,
-						"BoxID" : 4
+						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
 							{
@@ -7248,31 +7191,12 @@
 					{
 						"RackedBoxDatas" : [
 							{
-								"m_UID" : 228,
-								"Size" : 2,
-								"Transform" : {
-									"Position" : {
-										"x" : -4.26913929,
-										"y" : -0.918000042,
-										"z" : 15.5941563
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.7071069,
-										"z" : 0,
-										"w" : -0.707106769
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 115,
-								"ProductCount" : 6
-							},{
 								"m_UID" : 229,
 								"Size" : 2,
 								"Transform" : {
 									"Position" : {
 										"x" : -4.26913929,
-										"y" : -0.60800004,
+										"y" : -0.918000042,
 										"z" : 15.5941563
 									},
 									"Rotation" : {
@@ -7365,14 +7289,14 @@
 									},
 									"Rotation" : {
 										"x" : 0,
-										"y" : -0.7071069,
+										"y" : 0.7071069,
 										"z" : 0,
-										"w" : -0.707106769
+										"w" : 0.707106769
 									}
 								},
 								"IsOpen" : false,
 								"ProductID" : 86,
-								"ProductCount" : 7
+								"ProductCount" : 3
 							}
 						],
 						"ProductID" : 86,
@@ -7705,25 +7629,6 @@
 								"IsOpen" : false,
 								"ProductID" : 141,
 								"ProductCount" : 12
-							},{
-								"m_UID" : 245,
-								"Size" : 2,
-								"Transform" : {
-									"Position" : {
-										"x" : -3.25221181,
-										"y" : -0.60800004,
-										"z" : 14.93452
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : 0.707106769,
-										"z" : 0,
-										"w" : -0.7071069
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 141,
-								"ProductCount" : 5
 							}
 						],
 						"ProductID" : 141,
@@ -8018,26 +7923,7 @@
 								},
 								"IsOpen" : false,
 								"ProductID" : 101,
-								"ProductCount" : 12
-							},{
-								"m_UID" : 260,
-								"Size" : 2,
-								"Transform" : {
-									"Position" : {
-										"x" : -3.25221157,
-										"y" : 1.969,
-										"z" : 15.59732
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.707106769,
-										"z" : 0,
-										"w" : 0.7071069
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 101,
-								"ProductCount" : 5
+								"ProductCount" : 1
 							}
 						],
 						"ProductID" : 101,
@@ -8130,20 +8016,14 @@
 						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
-							
-						],
-						"ProductID" : 150,
-						"BoxID" : -1
-					},{
-						"RackedBoxDatas" : [
 							{
 								"m_UID" : 264,
 								"Size" : 2,
 								"Transform" : {
 									"Position" : {
 										"x" : -3.31061,
-										"y" : 0.368999958,
-										"z" : 13.47056
+										"y" : 0.366999984,
+										"z" : 14.12936
 									},
 									"Rotation" : {
 										"x" : 0,
@@ -8154,11 +8034,17 @@
 								},
 								"IsOpen" : false,
 								"ProductID" : 150,
-								"ProductCount" : 16
+								"ProductCount" : 12
 							}
 						],
 						"ProductID" : 150,
 						"BoxID" : 4
+					},{
+						"RackedBoxDatas" : [
+							
+						],
+						"ProductID" : 150,
+						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
 							{
@@ -9120,29 +9006,10 @@
 						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
-							{
-								"m_UID" : 281,
-								"Size" : 3,
-								"Transform" : {
-									"Position" : {
-										"x" : -8.32623,
-										"y" : -0.268,
-										"z" : 10.4039507
-									},
-									"Rotation" : {
-										"x" : 0,
-										"y" : -0.707106769,
-										"z" : 0,
-										"w" : 0.7071069
-									}
-								},
-								"IsOpen" : false,
-								"ProductID" : 75,
-								"ProductCount" : 4
-							}
+							
 						],
 						"ProductID" : 75,
-						"BoxID" : 5
+						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
 							{
@@ -9220,35 +9087,35 @@
 						"BoxID" : 5
 					},{
 						"RackedBoxDatas" : [
-							
-						],
-						"ProductID" : 10,
-						"BoxID" : -1
-					},{
-						"RackedBoxDatas" : [
 							{
 								"m_UID" : 284,
 								"Size" : 4,
 								"Transform" : {
 									"Position" : {
 										"x" : -8.32623,
-										"y" : 1.011,
-										"z" : 11.06175
+										"y" : 1.012,
+										"z" : 10.4049511
 									},
 									"Rotation" : {
 										"x" : 0,
-										"y" : -1.00000012,
+										"y" : 1.00000012,
 										"z" : 0,
 										"w" : 0
 									}
 								},
 								"IsOpen" : false,
 								"ProductID" : 10,
-								"ProductCount" : 8
+								"ProductCount" : 5
 							}
 						],
 						"ProductID" : 10,
 						"BoxID" : 6
+					},{
+						"RackedBoxDatas" : [
+							
+						],
+						"ProductID" : 10,
+						"BoxID" : -1
 					},{
 						"RackedBoxDatas" : [
 							{
@@ -9454,15 +9321,15 @@
 			
 		],
 		"DailyStatisticsData" : {
-			"SatisfiedCustomerCount" : 42,
+			"SatisfiedCustomerCount" : 56,
 			"CouldntFindProduct" : 0,
 			"ExpensiveProducts" : 0,
 			"ShortChangeAmount" : 0,
 			"HarmedCustomerCount" : 0,
-			"TotalCustomerCount" : 42,
-			"StorePoint" : 332,
-			"CheckoutIncome" : 2914.86938,
-			"SupplyCosts" : -3555.11084,
+			"TotalCustomerCount" : 56,
+			"StorePoint" : 410,
+			"CheckoutIncome" : 4003.36914,
+			"SupplyCosts" : -4189.99072,
 			"UpgradeCosts" : 0,
 			"CustomizationCosts" : 0,
 			"BillCosts" : -168.61,
@@ -9802,8 +9669,8 @@
 		"CleanedGarbageCount" : 183,
 		"CleanedDirtCount" : 203,
 		"CleanedGlassCount" : 109,
-		"CompletedCheckoutCount" : 3277,
-		"CurrentStorePoint" : 421,
+		"CompletedCheckoutCount" : 3291,
+		"CurrentStorePoint" : 499,
 		"CurrentStoreLevel" : 39,
 		"StoreUpgradeLevel" : 4,
 		"IsStoreOpen" : true,
